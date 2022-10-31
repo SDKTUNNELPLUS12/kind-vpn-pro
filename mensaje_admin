@@ -1,16 +1,10 @@
-♻️♻️ DATACENTER DE NUESTROS SERVIDORES ♻️♻️
+♻️♻️ PUERTOS UDP DE NUESTROS SERVIDORES ♻️♻️
 
-IP : Servidor Linode 1         IP : Servidor Linode 2        IP : Servidor Linode 3  
-City : Atlanta                 City : Atlanta                City : Atlanta
-Region : Georgia               Region : Georgia              Region : Georgia
-Country : United States        Country : United States       Country : United States
-Provider : Linode, LLC         Provider : Linode, LLC        Provider : Linode, LLC
-
-IP : Servidor Linode 4         IP : Servidor Linode 5        IP : Servidor Kamatera
-City : Richardson              City : Richardson             City : New York
-Region : Texas                 Region : Texas                Region : New York
-Country : United States        Country : United States       Country : United States
-Provider : Linode, LLC         Provider : Linode, LLC        Provider : Kamatera
+UDP Forward = 7100
+UDP Forward = 7200
+UDP Forward = 7300
+UDP Forward = 7400
+UDP Forward = 13000
 
 
 Developer (sdktunnelPlus)
