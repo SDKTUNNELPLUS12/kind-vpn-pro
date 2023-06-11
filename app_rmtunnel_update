@@ -1,14 +1,14 @@
 {
-"newVersion": "1.7",
+"newVersion": "1.8",
 "apkUrl": "https://play.google.com/store/apps/details?id=rm.tunnel.sdkplus",
 "versionNotes":"
 • Protocolo UDP modificado
+• CUstom configuracion
 • Corregidos bloqueos de Android 12
 • Corregido Agregar temporizador
 • Optimizar la interfaz de usuario
 • Optimizar la conexión
 • Protocolo SSL fijo
-•Se agrego Custom Payload
-•Se agrego Custom Puerto
+
 "
 }
